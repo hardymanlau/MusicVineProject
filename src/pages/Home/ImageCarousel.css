@@ -1,0 +1,22 @@
+
+.ImageCarousel {
+height: 600px;
+width: 100%;
+align-items: center;
+
+}
+
+.carousel-caption {
+  text-align: center;
+}
+
+.Carousel{
+align-items: center;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+margin-top: 5px;
+}
+
+

@@ -1,0 +1,26 @@
+h2 {
+    font-family:'Playfair Display', serif;
+    color: #c0ada5;
+    text-align: center;
+    font-style: italic;
+}
+
+h5 {
+    text-align: center;
+    color: #828282;
+    font-family: "Lato";
+}
+
+.sightseeing-description {
+    margin: 1% 20%;
+    color: #828282;
+    font-family: "Lato";
+    font-style: italic;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:'Playfair Display', serif;
+}

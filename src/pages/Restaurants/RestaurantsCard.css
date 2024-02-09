@@ -1,0 +1,12 @@
+.btn-card-style {
+    width: 8rem;
+    height: 2.5em;
+    background-color: #D4C0B8;
+    border: #D4C0B8;
+}
+
+.btn-card-style:hover {
+    background-color: #D4C0B8;
+    color: #fff;
+    transform: scale(1.1);
+  }

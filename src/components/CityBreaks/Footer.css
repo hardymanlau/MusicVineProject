@@ -1,0 +1,15 @@
+#pageBreak {
+    margin-left: 2%;
+    margin-right: 2%;
+    height: 10px;
+    clear: both;
+    margin-top: 2%;
+}
+
+#heading {
+    font-style: italic;
+    text-align: center;
+    clear: both;
+    color: #e3cbc0;
+    font-weight: bold;
+}

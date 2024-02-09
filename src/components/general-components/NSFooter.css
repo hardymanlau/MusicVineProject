@@ -1,0 +1,35 @@
+
+
+/* Updating CSS to resolve footer covering page content issue */
+footer {
+  position: relative;
+  margin-top: auto;
+  background-color: #c0ada5;
+  padding: 20px;
+  position: relative;
+  clear: both;
+}
+
+
+.icons {
+	margin: 10px;
+	text-align: center;
+}
+
+.icon {
+	color: #fff;
+	font-size: 18px;
+	padding: 0 6px 0 6px;
+}
+
+.icon:hover {
+	cursor: pointer;
+	transform: scale(1.25);
+}
+
+.copyRight {
+	font-family: "Lato", sans-serif;
+	font-size: 12px;
+	margin: 10px;
+	text-align: center;
+}

@@ -1,0 +1,27 @@
+#rightSideButton {
+    float: right
+}
+
+#leftSideText {
+    float: left;
+    justify-content: center;
+    color: #828282;
+}
+
+.card#cityCard {
+    max-width: 400px;
+	max-height: 500px;
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+    margin-top: 50px;
+	margin-bottom: 100px;
+}
+
+.container#cityBreaks{
+    width: 400px;
+}
+
+.card-img#cityImages{
+    width: 400px;
+}

@@ -1,0 +1,24 @@
+.nsTravelServices {
+	font-family: "Playfair Display";
+	text-align: center;
+	margin: 30px 0 30px 0;
+	color: #828282;
+	font-size: xx-large;
+}
+
+.navbar {
+	font-family: "Lato", sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+.nav-link,
+.navbar-toggler-icon, .navbar-toggler {
+	color: #af9990;
+	font-size: 12px;
+}
+
+.nav-link:hover {
+  color: #80675d;
+  transform: scale(1.1);
+}

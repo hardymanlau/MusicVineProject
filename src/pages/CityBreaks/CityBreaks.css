@@ -1,0 +1,10 @@
+.packageInfo {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5em;
+    color: #828282;
+    font-style: italic
+}

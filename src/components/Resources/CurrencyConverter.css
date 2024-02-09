@@ -1,0 +1,75 @@
+h1 {
+	font-family: "Playfair Display";
+	font-style: italic;
+	text-align: center;
+}
+
+.currencyContainer {
+	display: block;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 100px;
+	border: 2px solid #e3cbc0;
+	padding: 16px;
+	max-width: 350px;
+	text-align: center;
+}
+
+.currencyApp {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+.dropdownSelection {
+	margin: 20px;
+}
+
+img#currencyIcon {
+	margin: 25px 0 25px 0;
+}
+
+label,
+input,
+select {
+	color: #e3cbc0;
+	font-weight: 600;
+}
+
+label {
+	margin-right: 5px;
+}
+
+input:focus {
+	outline-color: #d0bbb2;
+}
+
+select {
+	margin: 5px;
+}
+
+#convertButton {
+	background-color: #e3cbc0;
+	color: #fffdfd;
+	text-transform: uppercase;
+	letter-spacing: 0.125em;
+	border: none;
+	padding: 5px 10px;
+	width: 80%;
+}
+
+#convertButton:hover {
+	color: #fffdfd;
+	background-color: #d0bbb2;
+}
+
+#result {
+	font-size: 18px;
+	text-align: center;
+	margin-top: 10px;
+	padding: 5px 10px;
+	color: #fff;
+	background-color: #e3cbc0;
+	width: 80%
+
+}

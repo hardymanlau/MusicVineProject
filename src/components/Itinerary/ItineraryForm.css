@@ -1,0 +1,158 @@
+/* Form */
+
+.itinerary-container {
+    background: #F8F8F8;
+    padding: 30px;
+    text-align: left;
+    position:relative;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.itinerary-header{
+    color: #5E5450;
+    text-align: center;
+    font-family: Playfair Display;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.day-container {
+    background-color: #EDE6E3;
+    padding: 20px;
+    border-radius: 30px;
+    margin: 30px;
+    margin-bottom: 40px;
+}
+.day-header{
+    color: #505050;
+    text-align: center;
+    font-family: Playfair Display;
+    font-size: 26px;
+    font-style: italic;
+    margin: 20px;
+}
+
+.input-container{
+    background-color:#e8e3e2;
+    padding: 30px;
+    border-radius: 30px;
+    margin: 26px;
+    margin-bottom: 10px;
+}
+
+.note-container {
+    background-color: #D4C0B8;
+    padding: 20px;
+    border-radius: 30px;
+    margin: 30px;
+    margin-bottom: 10px;
+}
+
+.note-header{
+    color: #ffffff;
+    text-align: center;
+    font-family: Playfair Display;
+    font-size: 26px;
+    font-style: italic;
+    margin: 20px;
+}
+
+.table-container {
+    width: 90%; 
+    margin: 0 auto; /* Center-align the table by setting left and right margins to auto */
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #505050;
+  }
+
+.input-container textarea,
+.note-container textarea,
+.day-container textarea {
+    width: 100%; /* Set the textarea width to 100% within the .note-container */
+    background-color: #f6edea;
+    border-radius: 10px;
+    border: none;
+    padding-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #505050;
+  }
+
+.input-container textarea {
+    height: 36px;
+}
+
+.note-container textarea {
+    background-color: #D4C0B8;
+    color: #ffffff;
+}
+
+.delete {
+    background: #D4C0B8;
+    color: #fff;
+    transition: background 0.3s;
+    border: none;
+}
+
+.add-button {
+    background: #edddd9;
+    color: #6d526e;
+    transition: background 0.3s;
+    border: none;
+    margin: 10px;
+    margin-bottom: 20px;
+    font-size: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.add-button-plus {
+    background: #edddd9;
+    color: #6d526e;
+    transition: background 0.3s;
+    border: none;
+    margin: 6px;
+    font-size: 22px;
+    padding: 2px 16px 3px;
+}
+
+.add-button:hover {
+    background: #d7a295; /* Change hover color to the opposite color */
+    color: rgb(112, 72, 41)
+}
+
+.add-button-plus:hover {
+    background: #d7a295; /* Change hover color to the opposite color */
+    color: rgb(112, 72, 41)
+}
+
+.delete-button {
+    background: #b2a6a4;
+    color: #ffffff;
+    transition: background 0.3s;
+    border: none;
+    margin: 10px;
+    margin-bottom: 20px;
+    font-size: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.delete-button:hover {
+    background: #c54a2b; /* Change hover color to the opposite color */
+    color: rgb(255, 250, 246)
+}
+
+.custom-datepicker {
+    border-radius: 10px;
+    width: 100%; /* Set the textarea width to 100% within the .note-container */
+    background-color: #fef8f6;
+    border-radius: 10px;
+    border: none;
+    padding-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #505050;
+    font-weight: 300;
+  }
+
