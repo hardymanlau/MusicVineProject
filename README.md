@@ -1,15 +1,6 @@
-![Group Image](https://github.com/LaurenBoal/NS-Travel-Website-Project/raw/main/ns-travel-services.jpg)
+The files in the repo are from the travel website my group created as part of the CFG degree. The music vine project is under the folder 'musicvinesongs'. 
 
-## How to run our project 
-For those cloning our repo, once the repo has been cloned, open a terminal and first install React and any dependencies the team has used with: **npm install**
-After this please follow the instructions to get the api keys for the 'Resources' and 'Restaurants' page.
 
-Then once everything has been installed, enter: **npm start** to open the website. 
-
-This will load our project where you can navigate between our pages. 
-
-## How to run our tests
-In the terminal, run the command **npm test**
 
 ## How to create your own API key 
 
