@@ -1,0 +1,484 @@
+{
+    "results": [
+        {
+            "id": 7699,
+            "name": "Old Town",
+            "artist": {
+                "id": 519,
+                "name": "Moire",
+                "image": "https://cdn.uppbeat.io/images/moire_avatar_v1_3993230254844253.jpg"
+            },
+            "duration": 123,
+            "featured_track_tags": [
+                {
+                    "url": "/browse/music/hip-hop-beats",
+                    "name": "Hip Hop"
+                },
+                {
+                    "url": "/music/mood/upbeat",
+                    "name": "Upbeat"
+                },
+                {
+                    "url": "/music/tag/90s",
+                    "name": "90s"
+                }
+            ]
+        },
+        {
+            "id": 106,
+            "name": "The Greatest",
+            "artist": {
+                "id": 161,
+                "name": "All Good Folks",
+                "image": "https://cdn.musicvine.com/images/all-good-folks-avatar-v1_4282299045668081.jpg"
+            },
+            "duration": 90,
+            "featured_track_tags": [
+                {
+                    "url": "/browse/music/uplifting",
+                    "name": "Uplifting"
+                },
+                {
+                    "url": "/music/genre/beats",
+                    "name": "Beats"
+                },
+                {
+                    "url": "/music/instrument/brass",
+                    "name": "Brass"
+                }
+            ]
+        },
+        {
+            "id": 4244,
+            "name": "Brave",
+            "artist": {
+                "id": 566,
+                "name": "Aavirall",
+                "image": "https://cdn.uppbeat.io/images/Aavirall_Avatar_970470914446943.jpg"
+            },
+            "duration": 133,
+            "featured_track_tags": [
+                {
+                    "url": "/browse/music/hip-hop-beats",
+                    "name": "Hip Hop"
+                },
+                {
+                    "url": "/music/mood/inspirational",
+                    "name": "Inspirational"
+                },
+                {
+                    "url": "/browse/music/vlog",
+                    "name": "Vlog"
+                }
+            ]
+        },
+        {
+            "id": 1130,
+            "name": "Synthercise",
+            "artist": {
+                "id": 32,
+                "name": "Doug Organ",
+                "image": "https://cdn.uppbeat.io/images/Uppbeat_Doug-Organ_2657086189444526.jpg"
+            },
+            "duration": 137,
+            "featured_track_tags": [
+                {
+                    "url": "/browse/music/funky",
+                    "name": "Funky"
+                },
+                {
+                    "url": "/browse/music/electronic",
+                    "name": "Electronic"
+                },
+                {
+                    "url": "/music/genre/beats",
+                    "name": "Beats"
+                }
+            ]
+        },
+        {
+            "id": 507,
+            "name": "Oh Lordie",
+            "artist": {
+                "id": 228,
+                "name": "Barry Dallas",
+                "image": "https://cdn.musicvine.com/images/barry-dallas-avatar-v1_2812305949580143.jpg"
+            },
+            "duration": 147,
+            "featured_track_tags": [
+                {
+                    "url": "/browse/music/funky",
+                    "name": "Funky"
+                },
+                {
+                    "url": "/music/genre/beats",
+                    "name": "Beats"
+                },
+                {
+                    "url": "/music/mood/energetic",
+                    "name": "Energetic"
+                }
+            ]
+        },
+        {
+            "id": 149,
+            "name": "Jump Around",
+            "artist": {
+                "id": 161,
+                "name": "All Good Folks",
+                "image": "https://cdn.musicvine.com/images/all-good-folks-avatar-v1_4282299045668081.jpg"
+            },
+            "duration": 49,
+            "featured_track_tags": [
+                {
+                    "url": "/browse/music/funky",
+                    "name": "Funky"
+                },
+                {
+                    "url": "/browse/music/happy",
+                    "name": "Happy"
+                },
+                {
+                    "url": "/music/genre/beats",
+                    "name": "Beats"
+                }
+            ]
+        },
+        {
+            "id": 2505,
+            "name": "Go And Take",
+            "artist": {
+                "id": 311,
+                "name": "Pecan Pie",
+                "image": "https://cdn.musicvine.com/images/pecan-pie-avatar-v1_7168535190190030.jpg"
+            },
+            "duration": 89,
+            "featured_track_tags": [
+                {
+                    "url": "/music/mood/upbeat",
+                    "name": "Upbeat"
+                },
+                {
+                    "url": "/browse/music/hip-hop-beats",
+                    "name": "Hip Hop"
+                },
+                {
+                    "url": "/browse/music/vlog",
+                    "name": "Vlog"
+                }
+            ]
+        },
+        {
+            "id": 2003,
+            "name": "Dill",
+            "artist": {
+                "id": 294,
+                "name": "Bosnow",
+                "image": "https://cdn.uppbeat.io/images/Bosnow_Avatar_83300368058208_7046545177639186.jpg"
+            },
+            "duration": 207,
+            "featured_track_tags": [
+                {
+                    "url": "/browse/music/lo-fi-beats",
+                    "name": "Lofi"
+                },
+                {
+                    "url": "/music/genre/beats",
+                    "name": "Beats"
+                },
+                {
+                    "url": "/music/mood/chill",
+                    "name": "Chill"
+                }
+            ]
+        },
+        {
+            "id": 3025,
+            "name": "Miami Runner",
+            "artist": {
+                "id": 416,
+                "name": "Hartzmann",
+                "image": "https://cdn.uppbeat.io/images/Hartzmann_avatar_8842544684411792.jpg"
+            },
+            "duration": 163,
+            "featured_track_tags": [
+                {
+                    "url": "/music/genre/dance",
+                    "name": "Dance"
+                },
+                {
+                    "url": "/music/mood/upbeat",
+                    "name": "Upbeat"
+                },
+                {
+                    "url": "/music/mood/cool",
+                    "name": "Cool"
+                }
+            ]
+        },
+        {
+            "id": 3041,
+            "name": "Spring Mornings In Chicago",
+            "artist": {
+                "id": 532,
+                "name": "Danger Lion X",
+                "image": "https://cdn.uppbeat.io/images/Danger-Lion-X_Avatar_8732533338317371.jpg"
+            },
+            "duration": 149,
+            "featured_track_tags": [
+                {
+                    "url": "/music/genre/chill-beats",
+                    "name": "Chill Beats"
+                },
+                {
+                    "url": "/browse/music/hip-hop-beats",
+                    "name": "Hip Hop"
+                },
+                {
+                    "url": "/browse/music/vlog",
+                    "name": "Vlog"
+                }
+            ]
+        },
+        {
+            "id": 1081,
+            "name": "Chasing Sun",
+            "artist": {
+                "id": 330,
+                "name": "Mood Maze",
+                "image": "https://cdn.musicvine.com/images/mood-maze-avatar-v1_224164720729323.jpg"
+            },
+            "duration": 97,
+            "featured_track_tags": [
+                {
+                    "url": "/music/tag/stylish",
+                    "name": "Stylish"
+                },
+                {
+                    "url": "/music/mood/upbeat",
+                    "name": "Upbeat"
+                },
+                {
+                    "url": "/browse/music/montage",
+                    "name": "Montage"
+                }
+            ]
+        },
+        {
+            "id": 1466,
+            "name": "Miami Vintage",
+            "artist": {
+                "id": 427,
+                "name": "Sonda",
+                "image": "https://cdn.uppbeat.io/images/Sonda_Avatar_5850905628587977.jpg"
+            },
+            "duration": 173,
+            "featured_track_tags": [
+                {
+                    "url": "/browse/music/funky",
+                    "name": "Funky"
+                },
+                {
+                    "url": "/music/tag/retro",
+                    "name": "Retro"
+                },
+                {
+                    "url": "/browse/music/electronic",
+                    "name": "Electronic"
+                }
+            ]
+        },
+        {
+            "id": 3355,
+            "name": "Journey",
+            "artist": {
+                "id": 389,
+                "name": "Tatami",
+                "image": "https://cdn.uppbeat.io/images/UppBeat_Artist_Tatami.jpg"
+            },
+            "duration": 127,
+            "featured_track_tags": [
+                {
+                    "url": "/music/mood/inspirational",
+                    "name": "Inspirational"
+                },
+                {
+                    "url": "/browse/music/electronic",
+                    "name": "Electronic"
+                },
+                {
+                    "url": "/browse/music/travel",
+                    "name": "Travel"
+                }
+            ]
+        },
+        {
+            "id": 2832,
+            "name": "Space Ranger",
+            "artist": {
+                "id": 519,
+                "name": "Moire",
+                "image": "https://cdn.uppbeat.io/images/moire_avatar_v1_3993230254844253.jpg"
+            },
+            "duration": 184,
+            "featured_track_tags": [
+                {
+                    "url": "/music/instrument/synth",
+                    "name": "Synth"
+                },
+                {
+                    "url": "/music/tag/80s",
+                    "name": "80s"
+                },
+                {
+                    "url": "/music/theme/sci-fi",
+                    "name": "Sci-Fi"
+                }
+            ]
+        },
+        {
+            "id": 3700,
+            "name": "Kicking Back",
+            "artist": {
+                "id": 519,
+                "name": "Moire",
+                "image": "https://cdn.uppbeat.io/images/moire_avatar_v1_3993230254844253.jpg"
+            },
+            "duration": 122,
+            "featured_track_tags": [
+                {
+                    "url": "/music/mood/chill",
+                    "name": "Chill"
+                },
+                {
+                    "url": "/browse/music/hip-hop-beats",
+                    "name": "Hip Hop"
+                },
+                {
+                    "url": "/browse/music/vlog",
+                    "name": "Vlog"
+                }
+            ]
+        },
+        {
+            "id": 8031,
+            "name": "Golden Hour",
+            "artist": {
+                "id": 377,
+                "name": "Vens Adams",
+                "image": "https://cdn.musicvine.com/images/vens-adams-avatar-v1_1721782353768003.jpg"
+            },
+            "duration": 152,
+            "featured_track_tags": [
+                {
+                    "url": "/music/genre/synthwave",
+                    "name": "Synthwave"
+                },
+                {
+                    "url": "/music/theme/fashion",
+                    "name": "Fashion"
+                },
+                {
+                    "url": "/music/genre/disco",
+                    "name": "Disco"
+                }
+            ]
+        },
+        {
+            "id": 3123,
+            "name": "Dark Mystics",
+            "artist": {
+                "id": 532,
+                "name": "Danger Lion X",
+                "image": "https://cdn.uppbeat.io/images/Danger-Lion-X_Avatar_8732533338317371.jpg"
+            },
+            "duration": 175,
+            "featured_track_tags": [
+                {
+                    "url": "/music/mood/relaxing",
+                    "name": "Relaxing"
+                },
+                {
+                    "url": "/browse/music/lo-fi-beats",
+                    "name": "Lofi"
+                },
+                {
+                    "url": "/browse/music/vlog",
+                    "name": "Vlog"
+                }
+            ]
+        },
+        {
+            "id": 1177,
+            "name": "Last Night",
+            "artist": {
+                "id": 147,
+                "name": "Cinco",
+                "image": "https://cdn.musicvine.com/images/cinco-avatar-v1_1508993769278746.jpg"
+            },
+            "duration": 210,
+            "featured_track_tags": [
+                {
+                    "url": "/music/tag/groovy",
+                    "name": "Groovy"
+                },
+                {
+                    "url": "/music/genre/beats",
+                    "name": "Beats"
+                },
+                {
+                    "url": "/music/tag/80s",
+                    "name": "80s"
+                }
+            ]
+        },
+        {
+            "id": 3269,
+            "name": "Chek",
+            "artist": {
+                "id": 240,
+                "name": "Walz",
+                "image": "https://cdn.musicvine.com/images/walz-avatar-v2_8353515061791827.jpg"
+            },
+            "duration": 88,
+            "featured_track_tags": [
+                {
+                    "url": "/music/genre/jazzhop",
+                    "name": "Jazzhop"
+                },
+                {
+                    "url": "/browse/music/hip-hop-beats",
+                    "name": "Hip Hop"
+                },
+                {
+                    "url": "/music/tag/90s",
+                    "name": "90s"
+                }
+            ]
+        },
+        {
+            "id": 2506,
+            "name": "The Big City",
+            "artist": {
+                "id": 311,
+                "name": "Pecan Pie",
+                "image": "https://cdn.musicvine.com/images/pecan-pie-avatar-v1_7168535190190030.jpg"
+            },
+            "duration": 114,
+            "featured_track_tags": [
+                {
+                    "url": "/music/mood/upbeat",
+                    "name": "Upbeat"
+                },
+                {
+                    "url": "/browse/music/hip-hop-beats",
+                    "name": "Hip Hop"
+                },
+                {
+                    "url": "/browse/music/vlog",
+                    "name": "Vlog"
+                }
+            ]
+        }
+    ]
+}
