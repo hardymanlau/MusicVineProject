@@ -28,7 +28,7 @@ const DisplaySongs = () => {
 
 
         // let url = "tracks.json";
-        // ax.get(url)
+        // axios.get(url)
         //   .then((response) => {
         //     this.songs.results = response.data.results;
         //     console.log(response.data.content);
